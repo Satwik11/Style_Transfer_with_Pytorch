@@ -23,7 +23,7 @@ Jupyter
 opencv
 
 ## How to run the file
-Execute Style_Tranfer.ipynb file an output video will be generated in which you can see photo conversion
+Execute **Style_Tranfer.ipynb** file an output video will be generated in which you can see photo conversion
 
 
 
