@@ -17,10 +17,10 @@ All the images were generated using the Adam optimizer rather than the L-BFGS op
 2. torchvision - torchvision.models contains the VGG19 model skeleton
 
 ## Dependecies
-PyTorch
-NumPy
-Jupyter
-opencv
+* PyTorch
+* NumPy
+* Jupyter
+* opencv
 
 ## How to run the file
 Execute **Style_Tranfer.ipynb** file an output video will be generated in which you can see photo conversion
