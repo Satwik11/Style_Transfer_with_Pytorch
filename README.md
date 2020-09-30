@@ -20,11 +20,7 @@ All the images were generated using the Adam optimizer rather than the L-BFGS op
 PyTorch
 NumPy
 Jupyter
-opencv2
-
-OUTPUT of the project : [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Satwik11/Style_Transfer_with_Pytorch/blob/master/output.mp4)
-
-[![Watch the video](https://github.com/Satwik11/Style_Transfer_with_Pytorch/blob/master/output.mp4)
+opencv
 
 
 
