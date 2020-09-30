@@ -22,7 +22,7 @@ NumPy
 Jupyter
 opencv2
 
-OUTPUT of the project : [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+OUTPUT of the project : [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Satwik11/Style_Transfer_with_Pytorch/blob/master/output.mp4)
 
 [![Watch the video](https://github.com/Satwik11/Style_Transfer_with_Pytorch/blob/master/output.mp4)
 
