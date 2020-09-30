@@ -22,6 +22,8 @@ NumPy
 Jupyter
 opencv
 
+## How to run the file
+Execute Style_Tranfer.ipynb file with whatever photo you like to convert after converting an output video will be generated in which you can see photo conversion
 
 
 
